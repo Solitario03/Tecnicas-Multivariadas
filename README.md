@@ -1,7 +1,7 @@
 <div align="center">
 
-### Universidad Agraria la Molina 
-#### Facultad Economía y Planificación
+# Universidad Agraria la Molina 
+### Facultad Economía y Planificación
 
 <img src="./logo.png" alt="Logo de la Universidad" width="180"/>
 
@@ -9,7 +9,9 @@
 
 <br>
 
-# 📊 PRACTICAS DE TÉCNICAS MULTIVARIADAS
+## 📊 PRACTICAS DE TÉCNICAS MULTIVARIADAS
+
+En este repositorio se incluirán las prácticas y evaluaciónes desarrollados durante el curso de Técnicas Multivariadas.
 
 ## 👨‍💻 Integrantes
 
@@ -22,11 +24,5 @@
 | 5 | **Mata Sotelo, Estiven Aldair** |
 | 6 | **Palma Cruz, Kesdine Yasmin** |
 
-
-<br>
-
----
-
-### 📚 Repositorio destinado a la presentación y desarrollo de trabajos del curso de Técnicas Multivariadas.
 
 </div>
