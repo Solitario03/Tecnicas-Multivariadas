@@ -13,9 +13,11 @@
 |:--:|---------------------|
 | 1 | **Alva Aquino, Brian** |
 | 2 | **Condori Cieza, Esther Elizabeth** |
-| 3 | **Malvacedo Quionez, Jean Franco** |
-| 4 | **Mata Sotelo, Estiven Aldair** |
-| 5 | **Palma Cruz, Kesdine Yasmin** |
+| 3 | **Lorenz Roland, Maravi Javier** |
+| 4 | **Malvacedo Quionez, Jean Franco** |
+| 5 | **Mata Sotelo, Estiven Aldair** |
+| 6 | **Palma Cruz, Kesdine Yasmin** |
+
 
 <br>
 
