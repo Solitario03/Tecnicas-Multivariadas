@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="./logo.png" alt="Logo de la Universidad" width="180"/>
 
-# 📊 TRABAJOS DE TÉCNICAS MULTIVARIADA
+# 📊 PRACTICAS DE TÉCNICAS MULTIVARIADA
 
 ### Universidad
-
+<img src="./logo.png" alt="Logo de la Universidad" width="180"/>
 <br>
 
 ## 👨‍💻 Integrantes
