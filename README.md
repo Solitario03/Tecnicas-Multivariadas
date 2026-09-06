@@ -8,6 +8,7 @@
 ### SEMESTRE 2026-II
 
 <br>
+
 # 📊 PRACTICAS DE TÉCNICAS MULTIVARIADAS
 
 ## 👨‍💻 Integrantes
