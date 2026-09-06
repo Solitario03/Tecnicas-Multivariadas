@@ -3,7 +3,7 @@
 
 # 📊 PRACTICAS DE TÉCNICAS MULTIVARIADA
 
-### Universidad Agraria la Molina
+### Universidad Agraria la Molina 2026-II
 <img src="./logo.png" alt="Logo de la Universidad" width="180"/>
 <br>
 
