@@ -1,11 +1,14 @@
 <div align="center">
 
+### Universidad Agraria la Molina 
+#### Facultad Economía y Planificación
 
-# 📊 PRACTICAS DE TÉCNICAS MULTIVARIADA
-
-### Universidad Agraria la Molina 2026-II
 <img src="./logo.png" alt="Logo de la Universidad" width="180"/>
+
+### SEMESTRE 2026-II
+
 <br>
+# 📊 PRACTICAS DE TÉCNICAS MULTIVARIADAS
 
 ## 👨‍💻 Integrantes
 
@@ -23,6 +26,6 @@
 
 ---
 
-### 📚 Repositorio destinado a la presentación y desarrollo de trabajos del curso de Técnicas Multivariada.
+### 📚 Repositorio destinado a la presentación y desarrollo de trabajos del curso de Técnicas Multivariadas.
 
 </div>
